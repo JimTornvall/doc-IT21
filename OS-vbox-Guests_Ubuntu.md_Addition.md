@@ -59,6 +59,13 @@ För att vi vill kunna ändra storlek på vm fönstret valfritt och vill kunna k
 
 ![power off](vbox-ga-poweroff.png)
 
+## Ta ur CDn
+
+1. Klicka `[Optical Drive]`
+2. Välj `Remove disc from virtual drive`
+
+![Optical Drive](vbox-ga-opticaldrive.png)
+
 ## Ställ in klipp och klistra
 
 1. Öppna settings för ditt vm
